@@ -1,6 +1,6 @@
-$fn = 20;
+$fn = 30;
 
-Screw_Mounting_Thickness = 4;
+Screw_Mounting_Thickness = 6;
 
 PI_Screw_Length = 58;
 PI_Screw_Width = 49;
@@ -91,3 +91,4 @@ Mount_Platform (
     Mount_Platform_Width, 
     Mount_Platform_Thickness_Height, 
     Mount_Platform_Thickness_Width);
+
